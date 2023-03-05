@@ -1,0 +1,36 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Tilt+Warp&display=swap'); */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+p{
+    font-family: 'Tilt Warp', cursive;
+}
+
+/* padding= top, right, bottom, left */
+.heading{
+    font-size: 20px;
+    font-weight: bold;
+    font-style: italic;
+    line-height: 20px;
+}
+div{
+    width: 50vw;
+    height: 10vh;
+    border: 1px solid red;
+    background-color: black;
+    color: antiquewhite;
+    border: 5px solid blue;
+    border-top: 5px solid red;
+    margin: 10px;
+}
+div p{
+    border: 3px solid yellow;
+    display: inline;
+    text-shadow: 100px 30px 1px yellow;
+    padding: 0px 3px y x;
+}
+
+
